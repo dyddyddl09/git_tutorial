@@ -5,6 +5,7 @@ public class MyMainApp {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
 		System.out.println("æ»≥Á«œººø‰");
+		System.out.println("≥ µµæ»≥Á!");
 	}
 
 }
